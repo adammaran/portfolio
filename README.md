@@ -7,5 +7,5 @@ git clone https://github.com/adammaran/portfolio.git master
 ```
 
 ## License 
-[ParticleJS] (https://github.com/VincentGarreau/particles.js/blob/master/LICENSE.md)
+[ParticleJS](https://github.com/VincentGarreau/particles.js/blob/master/LICENSE.md)
 
