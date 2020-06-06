@@ -476,6 +476,11 @@ footer {
     .portfolio-header{
         font-size: 3.5em;
     }
+
+    .portfolio-container{
+        position: relative;
+        right: 60px;
+    }
     
     .justify-content-md-center {
         margin: 0 auto;
@@ -484,7 +489,6 @@ footer {
     #navbar{
         display: none;
     }
-
 
     #row-3{
         display: none;
@@ -536,10 +540,6 @@ footer {
         background-color: #fff;
         color: white;
       }
-}
-
-@media only screen and (max-width: 531px){
-
 }
 
 @media only screen and (max-width: 426px){
