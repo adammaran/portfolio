@@ -524,11 +524,10 @@ footer {
       }
       
       .topnav a.icon {
-        background: black;
         display: block;
         position: absolute;
         right: 0;
-        top: 0;
+        top: 5;
       }
       
       .topnav a:hover {
