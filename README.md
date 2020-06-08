@@ -8,4 +8,4 @@ git clone https://github.com/adammaran/portfolio.git master
 
 ## License 
 [ParticleJS](https://github.com/VincentGarreau/particles.js/blob/master/LICENSE.md)
-
+[bootstrap](https://github.com/twbs/bootstrap/blob/v4.4.1/LICENSE)
