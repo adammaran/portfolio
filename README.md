@@ -1,3 +1,6 @@
+# Github pages link
+[Link to website](https://adammaran.github.io/portfolio/Index.html)
+
 # Portfolio website
 A website made for a faculty project.
 
